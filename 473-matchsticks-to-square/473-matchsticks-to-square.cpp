@@ -31,7 +31,7 @@ public:
         }
         if(sum%4!=0) return false;
         target =sum/4;
-        sort(m.begin(),m.end(),greater<int>());
+        sort(m.begin(),m.end());
         if(m[m.size()-1]>target) return false;
         vector<int> ans(4,0);
         return f(ans,m,0,target);
