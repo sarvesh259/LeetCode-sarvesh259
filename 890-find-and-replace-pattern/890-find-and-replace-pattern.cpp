@@ -9,7 +9,7 @@ public:
         int ind=0;
         for(int i=0;i<s.size();i++)
         {
-            if(a.find(s[i])==a.end())
+            if(a[(s[i])]==0)
             {
                 ind++;
                 a[s[i]]=ind;
