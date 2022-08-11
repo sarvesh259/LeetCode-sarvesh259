@@ -11,19 +11,25 @@
  */
 class Solution {
 public:
+    void toadd(vector<int> &a,TreeNode* root)
+    {  if(root==NULL)
+            return;
+        toadd(a,root->left);
+        a.push_back(root->val);
+        toadd(a,root->right);
+        return;
+}
     bool isValidBST(TreeNode* root) {
-        TreeNode* prev=NULL;
-        return isValidBST(root,prev);
-    }
-    bool isValidBST(TreeNode* root, TreeNode* &prev)
-    {
-        if(root==NULL)
-            return true;
-        if(!isValidBST(root->left,prev)) 
-            return false;
-        if((prev!=NULL)&&((prev->val) >= (root->val)))
-            return false;
-        prev=root;
-        return isValidBST(root->right,prev);
+        vector<int> a;
+        toadd(a,root);
+        for(int i=1;i<a.size();i++)
+        {
+            if(a[i-1]>=a[i])
+                return false;
+        }
+        return true;
+        vector<int> b(a.begin(),a.end());
+        sort(b.begin(),b.end());
+        return a==b;
     }
 };
