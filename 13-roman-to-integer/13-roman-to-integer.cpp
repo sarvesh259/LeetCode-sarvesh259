@@ -1,25 +1,32 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        int ans=0,i=0,v=0,x=0;
-        for(int i=0;i<s.length();i++)
+        int ans=0;
+        for(int i=0;i<s.size();i++)
         {
+            //cout<<i<<" "<<ans<<endl;
             if(s[i]=='I')
             {
-                if(s[i+1]=='V')
+                if(i!=s.size()-1)
                 {
-                    ans+=4;
-                    i=i+1;
-                }
-                else if(s[i+1]=='X')
-                {
-                    ans+=9;
-                    i=i+1;
+                    if(s[i+1]=='V')
+                    {
+                        ans+=4;
+                        i++;
+                    }
+                    else if(s[i+1]=='X')
+                    {
+                        ans+=9;
+                        i++;
+                    }
+                    else{
+                        ans+=1;
+                    }
                 }
                 else
                 {
-                    ans+=1;   
-                }
+                        ans+=1;
+                    }
             }
             else if(s[i]=='V')
             {
@@ -27,19 +34,26 @@ public:
             }
             else if(s[i]=='X')
             {
-                if(s[i+1]=='L')
+                if(i!=s.size()-1)
                 {
-                    ans+=40;
-                    i=i+1;
+                    if(s[i+1]=='L')
+                    {
+                        ans+=40;
+                        i++;
+                    }
+                    else if(s[i+1]=='C')
+                    {
+                        ans+=90;
+                        i++;
+                    }
+                    else{
+                        ans+=10;
+                    }
                 }
-                else if(s[i+1]=='C')
+                else
                 {
-                    ans+=90;
-                    i=i+1;
-                }
-                else{
-                    ans+=10;
-                }
+                        ans+=10;
+                    }
             }
             else if(s[i]=='L')
             {
@@ -47,20 +61,26 @@ public:
             }
             else if(s[i]=='C')
             {
-                if(s[i+1]=='D')
+                if(i!=s.size()-1)
                 {
-                    ans+=400;
-                    i=i+1;
-                }
-                else if(s[i+1]=='M')
-                {
-                    ans+=900;
-                    i=i+1;
+                    if(s[i+1]=='D')
+                    {
+                        ans+=400;
+                        ++i;
+                    }
+                    else if(s[i+1]=='M')
+                    {
+                        ans+=900;
+                        ++i;
+                    }
+                    else{
+                        ans+=100;
+                    }
                 }
                 else
                 {
-                    ans+=100;
-                }
+                        ans+=100;
+                    }
             }
             else if(s[i]=='D')
             {
