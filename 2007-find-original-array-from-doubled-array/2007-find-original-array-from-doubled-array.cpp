@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> findOriginalArray(vector<int>& a) {
         vector<int> ans;
-        map<int,int> mp;
+        unordered_map<int,int> mp;
         if(a.size()&1)
             return {};
         sort(a.begin(),a.end());
