@@ -6,22 +6,22 @@ using namespace std;
 class Solution
 {
 public:
+    void f(vector<int> &ans,vector<int> &arr,int i,int n,int sum)
+    {
+        if(i==n)
+        {
+            ans.push_back(sum);
+            return;
+        }
+        f(ans,arr,i+1,n,sum+arr[i]);
+        f(ans,arr,i+1,n,sum);
+        return;
+    }
     vector<int> subsetSums(vector<int> arr, int N)
     {
-        // Write Your Code here
-        vector<int> ans;
-        for(int i=0;i<(1<<N);i++)
-        {
-            int k=0;
-            for(int j=0;j<N;j++)
-            {
-                if(((1<<j)&i)>0)
-                {
-                    k+=arr[j];
-                }
-            }
-            ans.push_back(k);
-        }
+       vector<int> ans;
+       f(ans,arr,0,N,0);
+    
         return ans;
     }
 };
