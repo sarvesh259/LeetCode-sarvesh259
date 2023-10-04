@@ -1,10 +1,10 @@
 class MyHashMap {
 private:
     // int sz=1e6+1;
-    vector<int> a;
+    unordered_map<int,int> a;
 public:
     MyHashMap() {
-        a.resize(1000001,-1);
+        a.clear();
     }
     
     void put(int key, int value) {
@@ -12,7 +12,9 @@ public:
     }
     
     int get(int key) {
+        if(a.find(key)!=a.end())
         return a[key];
+        return -1;
     }
     
     void remove(int key) {
