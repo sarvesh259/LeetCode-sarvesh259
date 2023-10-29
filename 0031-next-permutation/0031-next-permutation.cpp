@@ -1,34 +1,31 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
-        int n=nums.size()-1;
-        int p=-1;
-        for(int i=n;i>0;i--)
+        if(nums.size()<=1)
+            return;
+        int k=-1;
+        int sz=nums.size();
+        for(int i=sz-2;i>=0;i--)
         {
-            if(nums[i]>nums[i-1])
+            if(nums[i]<nums[i+1])
             {
-                p=i-1;
+                k=i;
                 break;
             }
         }
-        // cout<<p<<q<<endl;
-        if(p==-1)
+        if(k==-1)
         {
             reverse(nums.begin(),nums.end());
             return;
         }
-        for(int i=n;i>0;i--)
+        for(int i=sz-1;i>k;i--)
         {
-            if(nums[p]<nums[i])
+            if(nums[i]>nums[k])
             {
-                swap(nums[i],nums[p]);
+                swap(nums[i],nums[k]);
                 break;
             }
         }
-        // int temp=nums[p];
-        // nums[p]=nums[q];
-        // nums[q]=temp;
-        reverse(nums.begin()+p+1,nums.end());
-        return;
+        sort(nums.begin()+k+1,nums.end());
     }
 };
