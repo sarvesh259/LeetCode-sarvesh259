@@ -7,11 +7,11 @@ public:
             a[i[0]]++;
             a[i[1]]++;
         }
-        sort(a.begin(),a.end(),greater<int>());
+        sort(a.begin(),a.end());
         long long ans=0;
         for(int i=0;i<n;i++)
         {
-            ans+=(n-i)*1LL*a[i];
+            ans+=(i+1)*1LL*a[i];
         }
         return ans;
     }
