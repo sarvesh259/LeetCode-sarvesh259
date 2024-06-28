@@ -1,24 +1,29 @@
 class Solution {
 public:
     long long maximumImportance(int n, vector<vector<int>>& roads) {
-        vector<int> a(n,0);
-        for(auto i:roads)
-        {
-            a[i[0]]++;
-            a[i[1]]++;
+        vector<int> degree(n, 0); // Array to store the degree of each city
+        
+        // Calculate the degree of each city
+        for (const auto& road : roads) {
+            degree[road[0]]++;
+            degree[road[1]]++;
         }
-        priority_queue<int> pq;
-        for(int i=0;i<n;i++)
-        {
-            pq.push(a[i]);
+        
+        // Create a list of cities and sort by degree
+        vector<int> cities(n);
+        for (int i = 0; i < n; i++) {
+            cities[i] = i;
         }
-        long long ans=0;
-        while(!pq.empty())
-        {
-            ans+=pq.top()*1LL*n*1LL;
-            n--;
-            pq.pop();
+        sort(cities.begin(), cities.end(), [&](int a, int b) {
+            return degree[a] > degree[b];
+        });
+        
+        // Assign values to cities starting from the highest degree
+        long long totalImportance = 0;
+        for (int i = 0; i < n; i++) {
+            totalImportance += (long long)(n - i) * degree[cities[i]];
         }
-        return ans;
+        
+        return totalImportance;
     }
 };
