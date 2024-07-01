@@ -4,11 +4,13 @@ public:
         int t=0;
         for(auto i:arr)
         {
-            if(t==3)
-                return true;
-            if(i&1)
+            if(i&1){
                 t++;
+                if(t==3)
+                return true;
+            }
             else t=0;
+            
         }
         return false;
     }
