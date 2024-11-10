@@ -31,7 +31,6 @@ public:
                 }
             }
         }
-        cout<<col1<<endl;
         if(matrix[0][0]==0)
         {
             for(int i=1;i<rowSize;i++)
