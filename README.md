@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0118-pascals-triangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0906-walking-robot-simulation](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0906-walking-robot-simulation) |
 | [1293-three-consecutive-odds](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1293-three-consecutive-odds) |
@@ -119,4 +120,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
