@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/2379-maximum-total-importance-of-roads) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0118-pascals-triangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0906-walking-robot-simulation](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0906-walking-robot-simulation) |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
