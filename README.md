@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0118-pascals-triangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0031-next-permutation) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
