@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0906-walking-robot-simulation](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0906-walking-robot-simulation) |
 | [1293-three-consecutive-odds](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1293-three-consecutive-odds) |
@@ -101,10 +102,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Simulation
 |  |
@@ -134,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0287-find-the-duplicate-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Dynamic Programming
 |  |
