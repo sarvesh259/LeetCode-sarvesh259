@@ -6,31 +6,26 @@ public:
             return a[1]<b[1];
         return a[0]<b[0];
     }
-    vector<vector<int>> merge(vector<vector<int>>& a) {
-        sort(a.begin(),a.end(),comp);
-        vector<vector<int>> ans;
-        int p=a[0][0],q=a[0][1];
-        for(int i=1;i<a.size();i++)
-        {
-            if(a[i][0]<=q)
-            {
-                q=max(q,a[i][1]);
-            }
-            else
-            {
-                vector<int> temp;
-                temp.push_back(p);
-                temp.push_back(q);
-                ans.push_back(temp);
+    vector<vector<int>> merge(vector<vector<int>>& arr) {
+         int n = arr.size(); // size of the array
 
-                p=a[i][0];
-                q=a[i][1];
-            }
+    //sort the given intervals:
+    sort(arr.begin(), arr.end());
+
+    vector<vector<int>> ans;
+
+    for (int i = 0; i < n; i++) {
+        // if the current interval does not
+        // lie in the last interval:
+        if (ans.empty() || arr[i][0] > ans.back()[1]) {
+            ans.push_back(arr[i]);
         }
-        vector<int> temp;
-        temp.push_back(p);
-        temp.push_back(q);
-        ans.push_back(temp);
-        return  ans;
+        // if the current interval
+        // lies in the last interval:
+        else {
+            ans.back()[1] = max(ans.back()[1], arr[i][1]);
+        }
+    }
+    return ans;
     }
 };
