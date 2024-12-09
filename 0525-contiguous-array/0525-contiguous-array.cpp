@@ -2,7 +2,7 @@ class Solution {
 public:
     int findMaxLength(vector<int>& nums) {
         int n=nums.size();
-        vector<int> pre(n);int ans=0,sum=0;
+        int ans=0,sum=0;
         map<int,int> mp;
         for(int i=0;i<n;i++)
         {
