@@ -12,10 +12,10 @@ public:
                 ans=i+1;
             else
             {
-                if(mp[sum]!=0)
-                    ans=max(ans,i-mp[sum]+1);
+                if(mp.find(sum)!=mp.end())
+                    ans=max(ans,i-mp[sum]);
                 else
-                    mp[sum]=i+1;
+                    mp[sum]=i;
             }
         }
         // for(auto i:mp)
