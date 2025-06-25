@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1831-ways-to-split-array-into-three-subarrays) |
@@ -186,4 +187,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
