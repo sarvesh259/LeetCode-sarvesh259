@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0088-merge-sorted-array) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0031-next-permutation](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0073-set-matrix-zeroes) |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -174,4 +177,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
