@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0525-contiguous-array) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0525-contiguous-array) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [2055-describe-the-painting](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/2055-describe-the-painting) |
