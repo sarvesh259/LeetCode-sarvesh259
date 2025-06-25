@@ -1,38 +1,17 @@
 class Solution {
 public:
-    vector<int> productExceptSelf(vector<int>& n) {
-        int sz=n.size();
-        int noz=0;
-        for(auto &i:n)
-        {
-            if(i==0)
-                noz++;
+    vector<int> productExceptSelf(vector<int>& nums) {
+         int n = nums.size();
+        vector<int> result(n, 1);
+        
+        int prefix = 1;
+        int postfix = 1;
+        for (int i = 0; i < n; i++) {
+            result[i] = result[i]*prefix;
+            result[n-1-i] = result[n-1-i] * postfix;
+            prefix = prefix * nums[i];
+            postfix = postfix * nums[n-1-i];
         }
-        vector<int> ans(sz,0);
-        if(noz>1) return ans;
-        long product=1;
-        for(auto &i:n)
-        {
-            if(i!=0)
-            {
-                product*=i;
-            }
-        }
-        for(int i=0;i<sz;i++)
-        {
-            if(noz==1)
-            {
-                if(n[i]==0)
-                {
-                    ans[i]=product;
-                    return ans;
-                }
-            }
-            else
-            {
-                ans[i]=product/n[i];
-            }
-        }
-        return ans;
+        return result;
     }
 };
