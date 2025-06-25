@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0011-container-with-most-water) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0042-trapping-rain-water) |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0075-sort-colors) |
