@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0525-contiguous-array) |
+| [0739-daily-temperatures](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0739-daily-temperatures) |
 | [0906-walking-robot-simulation](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0906-walking-robot-simulation) |
 | [1293-three-consecutive-odds](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -202,10 +203,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
