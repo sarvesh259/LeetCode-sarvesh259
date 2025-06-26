@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0525-contiguous-array) |
 | [0906-walking-robot-simulation](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0906-walking-robot-simulation) |
 | [2055-describe-the-painting](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/2055-describe-the-painting) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
 |  |
 | ------- |
@@ -208,4 +210,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
