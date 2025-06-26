@@ -1,24 +1,26 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        vector<int> freq(26,0);
-        int maxFreq=0;
-        int i=0,j=0,ans=0;
-        while(j<s.size())
-        {
-            freq[s[j]-'A']++;
-            maxFreq=max(maxFreq,freq[s[j]-'A']);
-            while(i<j&&j-i+1-maxFreq>k)
-            {
-                freq[s[i]-'A']--;
-                maxFreq=max(maxFreq,freq[s[i]-'A']);
-                i++;
+     int res = 0;
+        unordered_set<char> charSet(s.begin(), s.end());
+
+        for (char c : charSet) {
+            int count = 0, l = 0;
+            for (int r = 0; r < s.size(); r++) {
+                if (s[r] == c) {
+                    count++;
+                }
+
+                while ((r - l + 1) - count > k) {
+                    if (s[l] == c) {
+                        count--;
+                    }
+                    l++;
+                }
+
+                res = max(res, r - l + 1);
             }
-            ans=max(ans,j-i+1);
-            j++;
-            // cout<<ans<<" "<<freq[maxFreq]<<endl;
         }
-        ans=max(ans,j-i);
-        return ans;
+        return res;
     }
 };
