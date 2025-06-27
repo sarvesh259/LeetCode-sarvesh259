@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0424-longest-repeating-character-replacement) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0146-lru-cache) |
 | [2411-spiral-matrix-iv](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Matrix
@@ -225,4 +227,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0143-reorder-list) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
