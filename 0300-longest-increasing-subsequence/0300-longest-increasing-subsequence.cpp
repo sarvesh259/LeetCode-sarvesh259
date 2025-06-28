@@ -1,19 +1,31 @@
 class Solution {
 public:
-    int f(int cur,int prev,vector<int> &nums,vector<vector<int>> &dp)
-    {
-        if(cur==nums.size()) return 0;
-        if(dp[cur][prev+1]!=-1)
-            return dp[cur][prev+1];
-        int ans=f(cur+1,prev,nums,dp);
-        if(prev==-1||nums[prev]<nums[cur])
-        {
-            ans=max(ans,1+f(cur+1,cur,nums,dp));
-        }
-        return dp[cur][prev+1]=ans;
-    }
+    // int f(int cur,int prev,vector<int> &nums,vector<vector<int>> &dp)
+    // {
+    //     if(cur==nums.size()) return 0;
+    //     if(dp[cur][prev+1]!=-1)
+    //         return dp[cur][prev+1];
+    //     int ans=f(cur+1,prev,nums,dp);
+    //     if(prev==-1||nums[prev]<nums[cur])
+    //     {
+    //         ans=max(ans,1+f(cur+1,cur,nums,dp));
+    //     }
+    //     return dp[cur][prev+1]=ans;
+    // }
     int lengthOfLIS(vector<int>& nums) {
-        vector<vector<int>> dp(nums.size(),vector<int>(nums.size()+1,-1));
-        return f(0,-1,nums,dp);
+        vector<vector<int>> dp(nums.size()+1,vector<int>(nums.size()+1,0));
+        for(int i=nums.size()-1;i>=0;i--)
+        {
+            for(int j=i-1;j>=-1;j--)
+            {
+                int ans=dp[i+1][j+1];
+                if(j==-1||nums[j]<nums[i])
+                {
+                    ans=max(ans,1+dp[i+1][i+1]);
+                }
+                dp[i][j+1]=ans;
+            }
+        }
+        return dp[0][0];
     }
 };
