@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0198-house-robber) |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0424-longest-repeating-character-replacement) |
 | [1250-longest-common-subsequence](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1250-longest-common-subsequence) |
