@@ -1,32 +1,22 @@
 class Solution {
 public:
-    int f(int i,int j,vector<vector<int>>& mat,vector<vector<int>> &dp)
-    {
-        if(i==0&j==0)
-            return mat[i][j];
-        if(i<0||j<0) return 1e9;
-        if(dp[i][j]!=-1) return dp[i][j];
-        return dp[i][j]=mat[i][j]+min(f(i-1,j,mat,dp),f(i,j-1,mat,dp));
-    }
     int minPathSum(vector<vector<int>>& mat) {
         int m=mat.size(),n=mat[0].size();
-        vector<vector<int>> dp(m,vector<int>(n,0));
-        dp[0][0]=mat[0][0];
-        for(int i=1;i<m;i++)
-        {
-            dp[i][0]+=mat[i][0]+dp[i-1][0];
-        }
+        vector<int> prev(n,0),cur(n,0);
+        prev[0]=mat[0][0];
         for(int i=1;i<n;i++)
         {
-            dp[0][i]+=mat[0][i]+dp[0][i-1];
+            prev[i]=mat[0][i]+prev[i-1];
         }
         for(int i=1;i<m;i++)
         {
+            cur[0]=prev[0]+mat[i][0];
             for(int j=1;j<n;j++)
             {
-                dp[i][j]=mat[i][j]+min(dp[i-1][j],dp[i][j-1]);
+                cur[j]=mat[i][j]+min(prev[j],cur[j-1]);
             }
+            prev=cur;
         }
-        return dp[m-1][n-1];
+        return prev[n-1];
     }
 };
