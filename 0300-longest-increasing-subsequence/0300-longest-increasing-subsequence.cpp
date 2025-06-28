@@ -13,19 +13,20 @@ public:
     //     return dp[cur][prev+1]=ans;
     // }
     int lengthOfLIS(vector<int>& nums) {
-        vector<vector<int>> dp(nums.size()+1,vector<int>(nums.size()+1,0));
+        vector<int> cur(nums.size()+1,0),prev(nums.size()+1,0);
         for(int i=nums.size()-1;i>=0;i--)
         {
             for(int j=i-1;j>=-1;j--)
             {
-                int ans=dp[i+1][j+1];
+                int ans=cur[j+1];
                 if(j==-1||nums[j]<nums[i])
                 {
-                    ans=max(ans,1+dp[i+1][i+1]);
+                    ans=max(ans,1+cur[i+1]);
                 }
-                dp[i][j+1]=ans;
+                prev[j+1]=ans;
             }
+            cur=prev;
         }
-        return dp[0][0];
+        return prev[0];
     }
 };
