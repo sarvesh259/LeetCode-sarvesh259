@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0226-invert-binary-tree) |
+| [1036-rotting-oranges](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Topological Sort
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0883-car-fleet) |
 | [0906-walking-robot-simulation](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0906-walking-robot-simulation) |
+| [1036-rotting-oranges](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1036-rotting-oranges) |
 | [1293-three-consecutive-odds](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1831-ways-to-split-array-into-three-subarrays) |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0074-search-a-2d-matrix) |
+| [1036-rotting-oranges](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1036-rotting-oranges) |
 | [2411-spiral-matrix-iv](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/2411-spiral-matrix-iv) |
 ## Math
 |  |
