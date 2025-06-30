@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0451-sort-characters-by-frequency) |
 | [0883-car-fleet](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0883-car-fleet) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2055-describe-the-painting](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/2055-describe-the-painting) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0451-sort-characters-by-frequency) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/2379-maximum-total-importance-of-roads) |
 ## Depth-First Search
 |  |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0525-contiguous-array) |
 | [0652-find-duplicate-subtrees](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0652-find-duplicate-subtrees) |
 | [0906-walking-robot-simulation](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0906-walking-robot-simulation) |
@@ -232,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
@@ -241,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0451-sort-characters-by-frequency) |
 | [1250-longest-common-subsequence](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
@@ -298,4 +303,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
