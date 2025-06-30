@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0125-valid-palindrome) |
+| [0214-shortest-palindrome](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0214-shortest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0451-sort-characters-by-frequency) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -310,4 +311,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0451-sort-characters-by-frequency) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
