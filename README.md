@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0011-container-with-most-water) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0451-sort-characters-by-frequency) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0143-reorder-list) |
 | [0739-daily-temperatures](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0883-car-fleet) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
