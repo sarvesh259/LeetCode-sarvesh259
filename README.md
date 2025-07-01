@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0143-reorder-list) |
 | [0739-daily-temperatures](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0883-car-fleet) |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0883-car-fleet) |
 ## Sliding Window
