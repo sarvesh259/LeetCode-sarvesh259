@@ -11,18 +11,35 @@
  */
 class Solution {
 public:
-    void findAns(TreeNode* root, int lvl,vector<vector<int>> &ans)
-    {
-        if(!root) return;
-        if(ans.size()<lvl)
-            ans.push_back({});
-        ans[lvl-1].push_back(root->val);
-        findAns(root->left,lvl+1,ans);
-        findAns(root->right,lvl+1,ans);
-    }
     vector<vector<int>> levelOrder(TreeNode* root) {
+        if(!root) return {};
         vector<vector<int>> ans;
-        findAns(root,1,ans);
+
+        queue<TreeNode*> q;
+        q.push(root);
+
+        while(!q.empty())
+        {
+            vector<int> temp;
+            int n=q.size();
+            for(int i=0;i<n;i++)
+            {
+                TreeNode* node=q.front();
+                q.pop();
+                temp.push_back(node->val);
+
+                if(node->left)
+                {
+                    q.push(node->left);
+                }
+                if(node->right)
+                {
+                    q.push(node->right);
+                }
+            }
+            ans.push_back(temp);
+        }
+
         return ans;
     }
 };
