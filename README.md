@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0652-find-duplicate-subtrees) |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0652-find-duplicate-subtrees) |
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0652-find-duplicate-subtrees) |
