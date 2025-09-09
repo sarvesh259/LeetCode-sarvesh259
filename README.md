@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0871-keys-and-rooms) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0547-number-of-provinces) |
 | [0652-find-duplicate-subtrees](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0662-maximum-width-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0801-is-graph-bipartite) |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0662-maximum-width-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0871-keys-and-rooms) |
@@ -106,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0801-is-graph-bipartite) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Array
