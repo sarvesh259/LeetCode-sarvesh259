@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0871-keys-and-rooms) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/2379-maximum-total-importance-of-roads) |
 ## Sorting
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0871-keys-and-rooms](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0871-keys-and-rooms) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Topological Sort
 |  |
 | ------- |
