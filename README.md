@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0871-keys-and-rooms) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/2379-maximum-total-importance-of-roads) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0652-find-duplicate-subtrees](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0662-maximum-width-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0871-keys-and-rooms) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0662-maximum-width-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1544-count-good-nodes-in-binary-tree) |
