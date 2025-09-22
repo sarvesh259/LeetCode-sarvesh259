@@ -372,4 +372,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1511-count-number-of-teams) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
