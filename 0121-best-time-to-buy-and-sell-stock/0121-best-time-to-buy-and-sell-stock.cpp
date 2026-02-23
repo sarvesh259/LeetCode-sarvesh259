@@ -1,20 +1,20 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        deque<int> st;
-        int maxProfit=0;
-        for(int i=prices.size()-1;i>=0;i--)
+        int ans=0;
+        int buyMin=INT_MAX;
+
+        for(int i=0;i<prices.size();i++)
         {
-            while(!st.empty()&&st.back()<=prices[i])
+            if(buyMin>prices[i])
             {
-                st.pop_back();
+                buyMin=prices[i];
             }
-            if(!st.empty())
+            else
             {
-                maxProfit = max(st.front()-prices[i],maxProfit);
+                ans=max(ans,prices[i]-buyMin);
             }
-            st.push_back(prices[i]);
         }
-        return maxProfit;
+        return ans;
     }
 };
