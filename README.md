@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0525-contiguous-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0739-daily-temperatures](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0739-daily-temperatures) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0525-contiguous-array) |
 | [0652-find-duplicate-subtrees](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0652-find-duplicate-subtrees) |
 | [0906-walking-robot-simulation](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0906-walking-robot-simulation) |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0143-reorder-list) |
 | [0402-remove-k-digits](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0883-car-fleet) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -298,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0883-car-fleet) |
 ## Sliding Window
