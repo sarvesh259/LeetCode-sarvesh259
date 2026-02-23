@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/2379-maximum-total-importance-of-roads) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0214-shortest-palindrome) |
+| [0402-remove-k-digits](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0451-sort-characters-by-frequency) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0143-reorder-list) |
+| [0402-remove-k-digits](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0883-car-fleet) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -290,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0883-car-fleet) |
 ## Sliding Window
