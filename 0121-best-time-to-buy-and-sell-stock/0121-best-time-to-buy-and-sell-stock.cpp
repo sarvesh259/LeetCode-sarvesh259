@@ -5,7 +5,7 @@ public:
         int maxProfit=0;
         for(int i=prices.size()-1;i>=0;i--)
         {
-            while(!st.empty()&&st.front()<=prices[i])
+            while(!st.empty()&&st.back()<=prices[i])
             {
                 st.pop_back();
             }
