@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0451-sort-characters-by-frequency) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0883-car-fleet](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0883-car-fleet) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2055-describe-the-painting](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/2055-describe-the-painting) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/2379-maximum-total-importance-of-roads) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0883-car-fleet) |
 | [0906-walking-robot-simulation](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0906-walking-robot-simulation) |
 | [1036-rotting-oranges](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1036-rotting-oranges) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1293-three-consecutive-odds](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1293-three-consecutive-odds) |
 | [1511-count-number-of-teams](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 ## Simulation
 |  |
@@ -251,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0300-longest-increasing-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1250-longest-common-subsequence](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1511-count-number-of-teams) |
 ## Divide and Conquer
