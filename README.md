@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1036-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1162-as-far-from-land-as-possible) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0883-car-fleet) |
 | [0906-walking-robot-simulation](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0906-walking-robot-simulation) |
 | [1036-rotting-oranges](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1036-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1162-as-far-from-land-as-possible) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1293-three-consecutive-odds](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1293-three-consecutive-odds) |
 | [1511-count-number-of-teams](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1511-count-number-of-teams) |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0074-search-a-2d-matrix) |
 | [1036-rotting-oranges](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1036-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1162-as-far-from-land-as-possible) |
 | [2411-spiral-matrix-iv](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/2411-spiral-matrix-iv) |
 ## Math
 |  |
@@ -254,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0300-longest-increasing-subsequence) |
+| [1162-as-far-from-land-as-possible](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1162-as-far-from-land-as-possible) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1250-longest-common-subsequence](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1511-count-number-of-teams) |
