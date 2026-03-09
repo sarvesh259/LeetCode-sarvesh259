@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0525-contiguous-array) |
+| [0567-permutation-in-string](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0567-permutation-in-string) |
 | [0652-find-duplicate-subtrees](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0652-find-duplicate-subtrees) |
 | [0906-walking-robot-simulation](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0906-walking-robot-simulation) |
 | [2055-describe-the-painting](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/2055-describe-the-painting) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 ## Binary Search
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/1250-longest-common-subsequence) |
 ## Stack
@@ -322,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0567-permutation-in-string) |
 ## Recursion
 |  |
 | ------- |
