@@ -1,25 +1,19 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-     int res = 0;
-        unordered_set<char> charSet(s.begin(), s.end());
+        int l=0,maxi=0;
+        vector<int> mp(26,0);
+        int res=0;
+        for(int r=0;r<s.size();r++)
+        {
+            mp[s[r]-'A']++;
+            maxi=max(maxi,mp[s[r]-'A']);
 
-        for (char c : charSet) {
-            int count = 0, l = 0;
-            for (int r = 0; r < s.size(); r++) {
-                if (s[r] == c) {
-                    count++;
-                }
-
-                while ((r - l + 1) - count > k) {
-                    if (s[l] == c) {
-                        count--;
-                    }
-                    l++;
-                }
-
-                res = max(res, r - l + 1);
+            while(r-l+1-maxi > k){
+                mp[s[l]-'A']--;
+                l++;
             }
+            res=max(res,r-l+1);
         }
         return res;
     }
