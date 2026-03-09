@@ -1,35 +1,45 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        int i=0,j=0;
-        vector<int> hash(26,0);
-        vector<int> hash1(26,0);
-        for(int k=0;k<s1.size();k++)
-        {
-            hash[s1[k]-'a']++;
+        if (s1.size() > s2.size())
+            return false;
+
+        vector<int> mp1(26, 0);
+        vector<int> mp2(26, 0);
+        int count = 0;
+
+        for (int i = 0; i < s1.size(); i++) {
+            mp1[s1[i] - 'a']++;
+            mp2[s2[i] - 'a']++;
         }
-        while(j<s2.size())
-        {
-            hash1[s2[j]-'a']++;
-            while(hash1[s2[j]-'a']>hash[s2[j]-'a'])
-            {
-                hash1[s2[i]-'a']--;
-                i++;
+
+        for (int i = 0; i < 26; i++) {
+            if (mp1[i] == mp2[i]) {
+                count++;
             }
-            if(j-i+1==s1.size()){
-                bool flag=true;
-                for(int i=0;i<26;i++)
-                {
-                    if(hash[i]!=hash1[i])
-                    {
-                        flag=false;
-                        break;
-                    }
-                }
-                if(flag) return true;
-            }
-            j++;
         }
-        return false;
+
+        int l = 0;
+        for (int i = s1.size(); i < s2.size(); i++) {
+            if (count == 26) {
+                return true;
+            }
+            int ch = s2[i] - 'a';
+            mp2[ch]++;
+            if (mp2[ch] == mp1[ch]) {
+                count++;
+            } else if (mp2[ch] == mp1[ch] + 1) {
+                count--;
+            }
+            ch = s2[l] - 'a';
+            mp2[ch]--;
+            if (mp2[ch] == mp1[ch]) {
+                count++;
+            } else if (mp2[ch] == mp1[ch] - 1) {
+                count--;
+            }
+            l++;
+        }
+        return count == 26;
     }
 };
