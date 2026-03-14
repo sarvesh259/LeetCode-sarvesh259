@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0451-sort-characters-by-frequency) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/2379-maximum-total-importance-of-roads) |
 ## Depth-First Search
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -327,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0567-permutation-in-string) |
 ## Recursion
@@ -408,4 +411,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0052-n-queens-ii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sarvesh259/LeetCode-sarvesh259/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
