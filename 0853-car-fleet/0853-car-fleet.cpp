@@ -8,17 +8,16 @@ public:
             vp.push_back({pos[i],s[i]});
         }
         sort(vp.rbegin(),vp.rend());
-        stack<double> st;
-        st.push((double)(target-vp[0].first)/vp[0].second);
-        cout<<st.top()<<endl;
+        double prev=(double)(target-vp[0].first)/vp[0].second;
+        int ans=1;
         for(int i=1;i<n;i++)
         {
-            double temp=(double)(target-vp[i].first)/vp[i].second;
-            cout<<temp<<endl;
-            if(st.top()<temp){
-                st.push(temp);
+            double cur=(double)(target-vp[i].first)/vp[i].second;
+            if(cur>prev){
+                prev=cur;
+                ans++;
             }
         }
-        return st.size();
+        return ans;
     }
 };
