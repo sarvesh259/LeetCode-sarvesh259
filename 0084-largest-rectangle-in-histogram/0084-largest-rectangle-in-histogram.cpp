@@ -1,24 +1,29 @@
 class Solution {
 public:
     int largestRectangleArea(vector<int>& h) {
+        int ans = 0;
         stack<int> st;
-        int ans=0;
-        int n=h.size();
-        for(int i=0;i<=n;i++)
-        {
-            while(!st.empty()&&(i==n || h[st.top()]>=h[i]))
-            {
-                int temp=h[st.top()];
+        for (int i = 0; i < h.size(); i++) {
+            while (!st.empty() && h[st.top()] > h[i]) {
+                int temp = st.top();
                 st.pop();
-                int width=0;
-                if(st.empty()) width=i;
-                else
-                {
-                    width=i-st.top()-1;
+                int prev = -1;
+                if (!st.empty()) {
+                    prev = st.top();
                 }
-                ans=max(ans,width*temp);
+                ans = max((i - prev - 1) * h[temp], ans);
             }
             st.push(i);
+        }
+        while (!st.empty()) {
+            int temp = st.top();
+            st.pop();
+            int prev = -1;
+            if (!st.empty()) {
+                prev = st.top();
+            }
+            int curh = (h.size() - prev - 1);
+            ans = max(ans, curh * h[temp]);
         }
         return ans;
     }
